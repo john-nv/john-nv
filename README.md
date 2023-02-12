@@ -20,17 +20,9 @@ My hobbies include listening to music, drinking coffee in a peaceful place, or p
 <a href="https://github.com/quangc992/infomation-Quang">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=infomation-Quang&theme=blueberry" />
 </a>
-<a href="https://github.com/quangc992/trend-love">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=trend-love&theme=synthwave" />
+<a href="https://github.com/quangc992/ung-dung-quan-ly-xe-oto">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=ung-dung-quan-ly-xe-oto&theme=blueberry" />
 </a>
-
-<br>
-
-<a href="https://github.com/quangc992/infomation-Quang">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=infomation-Quang&theme=prussian" />
-</a> 
-
-<br>
 
 <a href="https://github.com/quangc992/control-admin-bot-discord">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=control-admin-bot-discord&theme=highcontrast" />
@@ -41,4 +33,11 @@ My hobbies include listening to music, drinking coffee in a peaceful place, or p
 
 <a href="https://github.com/quangc992/confession-bot-discord">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=confession-bot-discord&theme=highcontrast" />
+</a>
+<a href="https://github.com/quangc992/BotDiscord-Auto-Room-Radio24-7">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=BotDiscord-Auto-Room-Radio24-7&theme=highcontrast" />
 </a>   
+
+<a href="https://github.com/quangc992/trend-love">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=trend-love&theme=synthwave" />
+</a> 
