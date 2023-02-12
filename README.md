@@ -11,33 +11,34 @@ My hobbies include listening to music, drinking coffee in a peaceful place, or p
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quangc992&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/quangc992/notetext">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=notetext&theme=merko" />
 </a>    
 <a href="https://github.com/quangc992/noteBook">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=noteBook&theme=merko" />
 </a>
 
 <a href="https://github.com/quangc992/infomation-Quang">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=infomation-Quang&theme=blueberry" />
-</a>    
+</a>
 <a href="https://github.com/quangc992/trend-love">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=trend-love&theme=synthwave" />
 </a>
 
+<br>
+
+<a href="https://github.com/quangc992/infomation-Quang">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=infomation-Quang&theme=prussian" />
+</a> 
+
+<br>
+
 <a href="https://github.com/quangc992/control-admin-bot-discord">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=control-admin-bot-discord&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=control-admin-bot-discord&theme=highcontrast" />
 </a>    
 <a href="https://github.com/quangc992/botDiscord-BotMusic">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=botDiscord-BotMusic&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=botDiscord-BotMusic&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/quangc992/confession-bot-discord">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=control-admin-bot-discord&theme=blueberry" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangc992&repo=confession-bot-discord&theme=highcontrast" />
+</a>   
