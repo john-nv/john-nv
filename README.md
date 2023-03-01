@@ -4,7 +4,7 @@ My name is Quang and i was born and raised in Vietnam. I started exploring progr
 My hobbies include listening to music, drinking coffee in a peaceful place, or playing a popular game with close friends.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]() [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/quangc992/) [![Facebook](https://i.imgur.com/9B9Az1I.png) Facebook](https://www.facebook.com/QuangC.FB/) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]() [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/quangc992/)
 
 
 
